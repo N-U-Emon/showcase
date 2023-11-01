@@ -29,7 +29,7 @@ function App() {
         <Header darkMode={darkMode} setDarkMode={setDarkMode} />
         <Skills />
         <Projects />
-        <Foomnter />
+        <Footer />
       </main>
     </div>
   );
