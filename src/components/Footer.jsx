@@ -38,7 +38,7 @@ function Footer() {
             <ul className="flex gap-6 mt-8 ">
               <li>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/nur.uddin.emon/"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -58,7 +58,7 @@ function Footer() {
 
               <li>
                 <a
-                  href="https://github.com/N-U-Emon"
+                  href="https://github.com/nuruddinemon"
                   rel="noreferrer"
                   target="_blank"
                 >

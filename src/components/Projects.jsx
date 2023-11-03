@@ -74,7 +74,7 @@ function Projects() {
               React Admin Dashboard
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/react-admin-panel/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
@@ -99,7 +99,7 @@ function Projects() {
               React Mortage Calculator
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/mortgae-calculator/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
@@ -124,7 +124,7 @@ function Projects() {
               Tailwindcss Food Website
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/catering/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
@@ -149,7 +149,7 @@ function Projects() {
               Tailwindcss Lading Page
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/vexion/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
@@ -174,7 +174,7 @@ function Projects() {
               BootStrap Shop Website
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/pixie/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
@@ -199,7 +199,7 @@ function Projects() {
               BootStrap Portfolio Website
             </h2>
             <a
-              href="https://nuruddinemon.github.io/mywebsite/"
+              href="https://nuruddinemon.github.io/mogo/"
               target="_blank"
               class="text-base font-medium text-white bg-black py-3 px-6 rounded-lg hover:bg-gray-800 transition-all duration-300 ease-linear inline-block"
             >
