@@ -6,7 +6,7 @@ import {
   AiFillGithub,
 } from "react-icons/ai";
   
-import resume from "../../public/Nur-Uddin-Emon-Front-end-Developer-Resume.pdf";
+import resume from "../../public/Nur-Uddin-Emon-Fronend-Developer-Resume.pdf";
 import Image from "../../public/nnemon.png";
 import { TypeAnimation } from "react-type-animation";
 
